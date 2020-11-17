@@ -15,4 +15,4 @@ client.on("message", message => {
 // client.on('message', (message) => {
 //     console.log(message.author.presence)
 // })
-client.login('Nzc2Nzg1MDQ0Mjk5MzE3MjY4.X657cg.5Zpol3fAIK9JkbnNqwUJgdL3j0A');
+client.login('TOKEN HERE');
